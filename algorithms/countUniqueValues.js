@@ -2,6 +2,8 @@
 // sorted array and counts the unique values in the array.
 // There can be negative numbers in the array, but it's always sorted
 
+// Goal: O(n) time complexity, O(1) space complexity
+
 const countUniqueValues = (arr) => {
     // check for empty array
     if (arr.length === 0) return 0;
