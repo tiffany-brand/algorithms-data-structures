@@ -1,3 +1,5 @@
+// Frequency Counter Example
+
 // Given two string, write a function to determine if the
 // second string is an anagram of the first.
 // -- second word formed by rearranging the letters of another

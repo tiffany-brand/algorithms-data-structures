@@ -1,3 +1,5 @@
+// Multiple Pointers Example
+
 // Implement a function called countUniqueValues that accepts a
 // sorted array and counts the unique values in the array.
 // There can be negative numbers in the array, but it's always sorted
