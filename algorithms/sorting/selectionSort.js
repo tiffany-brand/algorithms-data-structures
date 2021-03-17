@@ -20,7 +20,7 @@ const selSort = (arr) => {
             }
         }
         // if minimum is not inital value, swap
-        if (arr[min] !== arr[i]) swap(arr, min, i);
+        if (min !== i) swap(arr, min, i);
     }
     // return the array
     return arr
